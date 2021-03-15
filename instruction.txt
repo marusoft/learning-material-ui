@@ -1,0 +1,9 @@
+Installation
+// with npm
+npm install @material-ui/core @material-ui/icons
+
+// with yarn
+yarn add @material-ui/core @material-ui/icons
+
+Add font to public/index.html
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
